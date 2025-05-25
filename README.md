@@ -1,4 +1,4 @@
-# health_cost_llinear_regression
+# health_cost_linear_regression
 
 This project uses a **neural network** to predict health insurance costs based on various input features, including demographic and lifestyle data. The model is built and trained using **TensorFlow** and **Keras**, leveraging the **insurance.csv** dataset.
 
