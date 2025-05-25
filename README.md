@@ -11,7 +11,6 @@ This project uses a **neural network** to predict health insurance costs based o
 - [Technologies Used](#technologies-used)
 - [How to Run](#how-to-run)
 - [Results](#results)
-- [License](#license)
 
 ---
 
@@ -86,5 +85,3 @@ Model Performance:
 
 ---
 
-## **License**
-This project is licensed under the MIT License.
